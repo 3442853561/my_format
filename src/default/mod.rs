@@ -35,7 +35,7 @@ impl Format for String {
     fn mid(&self, hold: usize) -> String {
         let temp = hold-self.len();
         let half = temp/2;
-        format!("{}{}{}", hold_spaces(temp - half), self, hold_spaces(temp))
+        format!("{}{}{}", hold_spaces(temp - half), self, hold_spaces(half))
     }
 
     fn left_lim(&self, hold: usize) -> String {
