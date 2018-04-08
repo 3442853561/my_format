@@ -4,6 +4,6 @@ version = "0.1.0"
 authors = ["3442853561 <3442853561@qq.com>"]
 repository = "https://github.com/3442853561/my_format"
 license = "MIT"
-keywords  = "format"
+keywords  = ["format"]
 
 [dependencies]
