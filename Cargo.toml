@@ -1,5 +1,5 @@
 [package]
-name = "my_crate"
+name = "my_format"
 version = "0.1.0"
 authors = ["3442853561 <3442853561@qq.com>"]
 description = "I think there is something that should be in the standard library but not"
